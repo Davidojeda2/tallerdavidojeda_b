@@ -1,2 +1,14 @@
-# tallerdavidojeda_b
+# Taller de Entorno de desarollo
+
+Datos:
+
+-Nombre David Ojeda
+-Fecha 2023-06-09
+
+## Descripcion
+
 Instalación y configuración de entorno de desarrollo
+
+## Funcionamiento
+
+![](img/carro.jpg)
