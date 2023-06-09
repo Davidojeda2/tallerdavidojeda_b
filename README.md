@@ -11,4 +11,4 @@ Instalación y configuración de entorno de desarrollo
 
 ## Funcionamiento
 
-![](img/carro.jpg)
+![](img/C._Ronaldo_-_Ballon_d'Or_2014.jpg)
